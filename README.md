@@ -1,2 +1,3 @@
 # laueriksson.com
-The source of http://laueriksson.com/
+
+The source of https://laueriksson.com
